@@ -1,0 +1,5 @@
+Nombre de la red: OKExChain Mainnet
+Nueva dirección URL de RPC: https://exchainrpc.okex.org
+Identificador de cadena: 66
+Símbolo de moneda (opcional): OKT
+Dirección URL del explorador de bloques (opcional): https://www.oklink.com/okexchain/

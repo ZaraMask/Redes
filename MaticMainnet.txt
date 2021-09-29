@@ -1,0 +1,5 @@
+Nombre de la red: Matic Mainnet
+Nueva dirección URL de RPC: https://rpc-mainnet.matic.network
+Identificador de cadena: 137
+Símbolo de moneda (opcional): MATIC
+Dirección URL del explorador de bloques (opcional): https://explorer.matic.network/

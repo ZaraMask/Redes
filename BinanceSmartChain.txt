@@ -1,0 +1,5 @@
+Nombre de la red: Binance Smart Chain
+Nueva dirección URL de RPC: https://bsc-dataseed.binance.org/
+Identificador de cadena: 56
+Símbolo de moneda (opcional): BNB
+Dirección URL del explorador de bloques (opcional): https://testnet.bscscan.com
